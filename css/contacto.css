@@ -1,0 +1,11 @@
+#body{
+    background: linear-gradient(180deg, #752B1D, #D59780);
+}
+
+#pad{
+    padding-block-end: 75px;
+}
+
+#contac{
+    color: white;
+}
